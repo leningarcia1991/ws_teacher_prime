@@ -1,0 +1,6 @@
+@WsTeacher_Prime_HostAddress = http://localhost:5250
+
+GET {{WsTeacher_Prime_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

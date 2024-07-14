@@ -1,0 +1,45 @@
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\WsTeacher Prime.exe
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\WsTeacher Prime.deps.json
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\WsTeacher Prime.runtimeconfig.json
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\WsTeacher Prime.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\WsTeacher Prime.pdb
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\staticwebassets\msbuild.WsTeacher Prime.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\staticwebassets\msbuild.build.WsTeacher Prime.props
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WsTeacher Prime.props
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WsTeacher Prime.props
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\scopedcss\bundle\WsTeacher Prime.styles.css
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeache.958876A3.Up2Date
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\refint\WsTeacher Prime.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.pdb
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\ref\WsTeacher Prime.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\obj\Debug\net8.0\WsTeacher Prime.sourcelink.json
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\JWT.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\Usuario\source\repos\WsTeacher Prime\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

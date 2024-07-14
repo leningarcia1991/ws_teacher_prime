@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime_test\bin\Debug\net8.0\CoverletSourceRootsMapping_ws_teacher_prime_test
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime_test\obj\Debug\net8.0\ws_teacher_prime_test.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime_test\obj\Debug\net8.0\ws_teacher_prime_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime_test\obj\Debug\net8.0\ws_teacher_prime_test.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime_test\obj\Debug\net8.0\ws_teacher_prime_test.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime_test\obj\Debug\net8.0\ws_teacher_prime_test.csproj.CoreCompileInputs.cache
