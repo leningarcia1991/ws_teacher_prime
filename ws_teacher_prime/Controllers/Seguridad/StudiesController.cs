@@ -5,7 +5,7 @@ namespace WsTeacher_Prime.Controllers.Seguridad
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class EstudioController : ControllerBase
+    public class StudiesController : ControllerBase
     {
         [HttpPost]
         public IActionResult CreateEstudio([FromBody] EstudioModel model)

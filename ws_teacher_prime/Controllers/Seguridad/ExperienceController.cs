@@ -5,7 +5,7 @@ namespace WsTeacher_Prime.Controllers.Seguridad
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class ExperienciaController : ControllerBase
+    public class ExperienceController : ControllerBase
     {
         [HttpPost]
         public IActionResult CreateExperiencia([FromBody] ExperienciaModel model)

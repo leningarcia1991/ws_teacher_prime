@@ -3,6 +3,7 @@ using Moq;
 using WsTeacher_Prime.Controllers.Seguridad;
 using WsTeacher_Prime.Models;
 using WsTeacher_Prime.Services.Interfaces;
+using Xunit;
 
 namespace ws_teacher_prime.Tests
 {
@@ -18,7 +19,7 @@ namespace ws_teacher_prime.Tests
         }
 
         [Fact]
-        public async Task Login_ReturnsOkResult_WithValidCredentials()
+        public async Task Test_Login_ValidCredentials_ReturnsOkResult()
         {
             // Arrange
             var loginModel = new LoginModel { Username = "validUser", Password = "validPassword" };
@@ -34,12 +35,11 @@ namespace ws_teacher_prime.Tests
         }
 
         [Fact]
-        public async Task Login_ReturnsUnauthorizedResult_WithInvalidCredentials()
+        public async Task Test_Login_InvalidCredentials_ReturnsUnauthorizedResult()
         {
             // Arrange
             var loginModel = new LoginModel { Username = "invalidUser", Password = "invalidPassword" };
-            _authServiceMock.Setup(x => x.LoginAsync(It.IsAny<LoginModel>()))
-                .ReturnsAsync((string)null);
+            _authServiceMock.Setup(x => x.LoginAsync(It.IsAny<LoginModel>())).ReturnsAsync((string)null);
 
             // Act
             var result = await _authController.Login(loginModel);
@@ -49,7 +49,7 @@ namespace ws_teacher_prime.Tests
         }
 
         [Fact]
-        public async Task Register_ReturnsOkResult_WithValidUser()
+        public async Task Test_Register_ValidUser_ReturnsOkResult()
         {
             // Arrange
             var registerModel = new RegisterModel { Username = "newUser", Password = "newPassword" };
@@ -64,7 +64,7 @@ namespace ws_teacher_prime.Tests
         }
 
         [Fact]
-        public async Task Register_ReturnsBadRequestResult_WithInvalidUser()
+        public async Task Test_Register_InvalidUser_ReturnsBadRequestResult()
         {
             // Arrange
             var registerModel = new RegisterModel { Username = "newUser", Password = "newPassword" };
@@ -79,7 +79,7 @@ namespace ws_teacher_prime.Tests
         }
 
         [Fact]
-        public async Task RefreshToken_ValidToken_ReturnsOk()
+        public async Task Test_RefreshToken_ValidToken_ReturnsOkResult()
         {
             // Arrange
             var tokenModel = new TokenModel { Token = "validToken" };
@@ -98,7 +98,7 @@ namespace ws_teacher_prime.Tests
         }
 
         [Fact]
-        public async Task RefreshToken_InvalidToken_ReturnsUnauthorized()
+        public async Task Test_RefreshToken_InvalidToken_ReturnsUnauthorizedResult()
         {
             // Arrange
             var tokenModel = new TokenModel { Token = "invalidToken" };

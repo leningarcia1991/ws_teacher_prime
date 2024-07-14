@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ws_teacher_prime_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e21407208b15c4ace568c2751f6898c4a4f7ec08")]
 [assembly: System.Reflection.AssemblyProductAttribute("ws_teacher_prime_test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ws_teacher_prime_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

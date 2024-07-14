@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime\obj\Debug\net8.0\ws_teacher_prime.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime\obj\Debug\net8.0\ws_teacher_prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime\obj\Debug\net8.0\ws_teacher_prime.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime\obj\Debug\net8.0\ws_teacher_prime.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime\obj\Debug\net8.0\ws_teacher_prime.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime\obj\Debug\net8.0\ws_teacher_prime.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime\obj\Debug\net8.0\ws_teacher_prime.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Teacher Prime\ws_teacher_prime\obj\Debug\net8.0\ws_teacher_prime.sourcelink.json
