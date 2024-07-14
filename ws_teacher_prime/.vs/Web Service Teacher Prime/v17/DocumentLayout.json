@@ -3,18 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E9A5D42-D8FB-409B-9BFF-B28A648B3B46}|..\\ws_teacher_prime_test\\ws_teacher_prime_test.csproj|c:\\users\\usuario\\source\\repos\\teacher prime\\ws_teacher_prime_test\\ws_teacher_prime_tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|c:\\users\\usuario\\source\\repos\\teacher prime\\ws_teacher_prime\\controllers\\seguridad\\studiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|solutionrelative:controllers\\seguridad\\studiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|c:\\users\\usuario\\source\\repos\\teacher prime\\ws_teacher_prime\\controllers\\seguridad\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\controllers\\seguridad\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|solutionrelative:controllers\\seguridad\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|c:\\users\\usuario\\source\\repos\\teacher prime\\ws_teacher_prime\\controllers\\administracion\\adminpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|c:\\users\\usuario\\source\\repos\\teacher prime\\ws_teacher_prime\\controllers\\seguridad\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|solutionrelative:controllers\\seguridad\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\controllers\\seguridad\\studiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|solutionrelative:controllers\\seguridad\\studiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|c:\\users\\usuario\\source\\repos\\teacher prime\\ws_teacher_prime\\controllers\\seguridad\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|solutionrelative:controllers\\seguridad\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A5D42-D8FB-409B-9BFF-B28A648B3B46}|..\\ws_teacher_prime_test\\ws_teacher_prime_test.csproj|c:\\users\\usuario\\source\\repos\\teacher prime\\ws_teacher_prime_test\\ws_teacher_prime_tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\controllers\\administracion\\adminpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59D0ECC7-AA35-4CC0-A843-B6E13C869A18}|ws_teacher_prime.csproj|solutionrelative:controllers\\administracion\\adminpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -25,24 +33,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PerfilController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\Controllers\\Seguridad\\PerfilController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Seguridad\\PerfilController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\Controllers\\Seguridad\\PerfilController.cs",
+              "RelativeToolTip": "Controllers\\Seguridad\\PerfilController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:28:34.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\Controllers\\Seguridad\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Seguridad\\UserController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\Controllers\\Seguridad\\UserController.cs",
+              "RelativeToolTip": "Controllers\\Seguridad\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:28:31.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StudiesController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\Controllers\\Seguridad\\StudiesController.cs",
               "RelativeDocumentMoniker": "Controllers\\Seguridad\\StudiesController.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\Controllers\\Seguridad\\StudiesController.cs",
               "RelativeToolTip": "Controllers\\Seguridad\\StudiesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T07:16:14.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AuthControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime_test\\ws_teacher_prime_tests\\AuthControllerTests.cs",
               "RelativeDocumentMoniker": "..\\ws_teacher_prime_test\\ws_teacher_prime_tests\\AuthControllerTests.cs",
@@ -55,20 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ExperienceController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\Controllers\\Seguridad\\ExperienceController.cs",
               "RelativeDocumentMoniker": "Controllers\\Seguridad\\ExperienceController.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\Controllers\\Seguridad\\ExperienceController.cs",
               "RelativeToolTip": "Controllers\\Seguridad\\ExperienceController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T07:18:22.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AdminPermissionController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Teacher Prime\\ws_teacher_prime\\Controllers\\Administracion\\AdminPermissionController.cs",
               "RelativeDocumentMoniker": "Controllers\\Administracion\\AdminPermissionController.cs",
@@ -76,8 +110,7 @@
               "RelativeToolTip": "Controllers\\Administracion\\AdminPermissionController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T05:37:34.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T05:37:34.67Z"
             }
           ]
         }
